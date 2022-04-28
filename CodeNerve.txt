@@ -1,14 +1,19 @@
 <span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cd Introduction/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Introduction.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+ <!-- sjkfhskjf -->
 
-Hey There! This is my simple portflio.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, I introduce myself in couple of line.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="index2.html">First Door</a> <br> <a href="link2">Profile2</a> and <br> <a href="https://liferay.dev/ask/questions/development/href-link-to-another-jsp-is-not-working-1">Profile3</a>.</p>
+Hello! This is my simple Resume.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>My Name is Loaa Zahar, and I am a MSc degree holder in Robotics Control and I used to be a Teaching Assistant for the past four years in the German University in Cairo.</p><!-- slightdelayhere-->
+<p>I am a passionate control engineer with Computer Engineering background.<!-- slightdelayhere--> Driven by my love for research and working with hardware and monitoring the simulated systems coming to life. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> I have pursued both my BSc and MSc in Motion Control of MicroRobots.</p> <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p> I worked on my MSc Project and thesis in <!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->the <a href="http://www.mnrlab.com/"> Medical Micro and Nano Robotics Laboratory</a> for the past four years.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>For the Technical Resume, you can check <a href="https://drive.google.com/file/d/1SJW4rQZzoLqLxYp-avAOgHGR5PQRV9-y/view?usp=sharing"> The Technical Resume. </a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> You can check my professional profiles, here: <br><br><br> <a href="http://researchgate.net/profile/Loaa-Zahar?ev=hdr_xprf&_sg=FxyzpctrMIdpB7kV_Idxz4inZ_OqByIGcbKP5zs-YplgPY8HzkSD3CGj0RhrgmegzQ3JAU46_e-heO53KbJE6Dqv">LinkedIn</a> <br><br><br> <a href="https://www.linkedin.com/in/loaazahar/">Research Gate</a></p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="loaamzahar@gmail.com">Email</a>.
+For further inquires and collaborations<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="mailto:loaamzahar@gmail.com">Send Email</a>.
 
 <p>Thank you for Reading!</p>
-<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cd Close File/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
+
+To change the Language to Korean<!-- slightdelayhere-->, <a href="link2" span id="k">Select This</a>.<!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+
+<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cd/ Introduction/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
+<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> close <!-- kjsdfhkjdhsfkjdshfkj -->Introduction.txt
