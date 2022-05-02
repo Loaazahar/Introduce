@@ -1,0 +1,26 @@
+<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cd 대학원 공부/<!-- kjsdfhkjdhsfkjdshfkj --> 석사 학위
+<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->석사 학위.txt<br/><br/>
+ <!-- sjkfhskjf -->
+
+다시 한 번 안녕하세요! 환영해요.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<!-- slightdelayhere--><!-- slightdelayhere--><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> 나는 석사 프로젝트와 논문에서 일했습니다 <!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj --><a href="http://www.mnrlab.com/"> Medical Micro and Nano Robotics Laboratory</a> 4년 동안 (2016~2020).<!-- slightdelayhere--><!-- slightdelayhere--> 저는 2021년 9월까지 연구실에서 연구원으로 계속 일했습니다..</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>선택적 폐쇄 루프 모션 컨트롤 시스템을 개발했습니다 <!-- slightdelayhere--><!-- slightdelayhere--> 마약 배달 요원들의 조종을 위해 말이죠. <!-- slightdelayhere--> 마이크로로봇 정자 로봇들은 공통의 자기장 아래에 있습니다. </p>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- slightdelayhere--><!-- slightdelayhere-->
+<p>생분해성 마이크로 로봇의 움직임을 조작하고 제어했습니다,<!-- slightdelayhere--><!-- slightdelayhere--> 마이크로 로봇을 제작하는 개념의 증거로 삼았습니다 <!-- slightdelayhere-->표적 약물 전달을 위한 인체입니다.</p>
+
+<!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- slightdelayhere--><!-- slightdelayhere-->
+
+<p>MSc 논문 전체 텍스트는 체크아웃할 수 있습니다. <a href="http://www.mnrlab.com/uploads/7/3/8/3/73833313/loaa_zahar.pdf">여기서</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> MSc 게시를 확인할 수 있습니다. <a href="http://www.mnrlab.com/uploads/7/3/8/3/73833313/hamed_biorob_2018.pdf">여기서.</a> </p>
+
+<!-- longlonglongcomment --><!-- longlonglongcomment -->
+
+
+<a href="MScEngVer" span id="k">For English, <!-- slightdelayhere--> Please Click Here</a><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+
+
+<a href="index" span id="d">홈페이지로 돌아가세요<!-- slightdelayhere--> </a>
+
+<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cd/ 대학원 공부/<!-- kjsdfhkjdhsfkjdshfkj -->석사 학위
+<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> close <!-- kjsdfhkjdhsfkjdshfkj -->석사 학위.txt

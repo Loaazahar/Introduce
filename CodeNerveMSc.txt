@@ -1,0 +1,26 @@
+<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cd Postgraduate Studies/<!-- kjsdfhkjdhsfkjdshfkj --> Masters Degree
+<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Masters Degree.txt<br/><br/>
+ <!-- sjkfhskjf -->
+
+Hello Again! Welcome.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<!-- slightdelayhere--><!-- slightdelayhere--><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> I worked on my MSc Project and thesis in <!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->the <a href="http://www.mnrlab.com/"> Medical Micro and Nano Robotics Laboratory</a> for four years (2016~2020).<!-- slightdelayhere--><!-- slightdelayhere--> I continued to work as a Researcher in the laboratory till September 2021.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>Developed a selective closed loop motion control system <!-- slightdelayhere--><!-- slightdelayhere--> for the steering of drug delivery agents. <!-- slightdelayhere--> microrobotic sperm robots, under a common magnetic field. </p>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- slightdelayhere--><!-- slightdelayhere-->
+<p>Fabricated and controlled the motion of biodegradable microrobots,<!-- slightdelayhere--><!-- slightdelayhere--> as proof of concept of fabricating microrobots to enter <!-- slightdelayhere-->the human-body for targeted drug delivery.</p>
+
+<!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- slightdelayhere--><!-- slightdelayhere-->
+
+<p>For the MSc thesis full text, you can check out <a href="http://www.mnrlab.com/uploads/7/3/8/3/73833313/loaa_zahar.pdf">here</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> You can check the MSc publication <a href="http://www.mnrlab.com/uploads/7/3/8/3/73833313/hamed_biorob_2018.pdf">Here</a> </p>
+
+<!-- longlonglongcomment --><!-- longlonglongcomment -->
+
+
+<a href="MScKrVer" span id="k">한국어의 경우 여기를 <!-- slightdelayhere--> 클릭하십시오</a><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+
+
+<a href="index" span id="d">Return to Homepage<!-- slightdelayhere--> </a>
+
+<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cd/ Postgraduate Studies/<!-- kjsdfhkjdhsfkjdshfkj -->Masters Degree
+<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> close <!-- kjsdfhkjdhsfkjdshfkj -->Masters Degree.txt
