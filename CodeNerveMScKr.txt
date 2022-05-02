@@ -20,7 +20,7 @@
 <a href="MScEngVer" span id="k">For English, <!-- slightdelayhere--> Please Click Here</a><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
 
-<a href="index" span id="d">홈페이지로 돌아가세요<!-- slightdelayhere--> </a>
+<a href="KrVer" span id="d">홈페이지로 돌아가세요<!-- slightdelayhere--> </a>
 
 <span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cd/ 대학원 공부/<!-- kjsdfhkjdhsfkjdshfkj -->석사 학위
 <span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> close <!-- kjsdfhkjdhsfkjdshfkj -->석사 학위.txt
