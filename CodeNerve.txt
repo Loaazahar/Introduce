@@ -1,12 +1,12 @@
 <span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cd Introduction/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
-<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Introduction.txt<br/><br/>
+<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->About_Me.txt<br/><br/>
  <!-- sjkfhskjf -->
 
 Hello! Welcome.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>My Name is Loaa Zahar, and I am a MSc degree holder in Robotics Control and I used to be a Teaching Assistant for the past four years in the German University in Cairo.</p><!-- slightdelayhere-->
 <p>I am a passionate control engineer with Computer Engineering background.</p><!-- slightdelayhere--><!-- slightdelayhere--><!-- slightdelayhere--> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>Driven by my love for research and working with hardware and monitoring the simulated systems coming to life. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> I have pursued both my BSc and MSc in Motion Control of MicroRobots.</p> <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p> I worked on my MSc Project and thesis in <!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->the <a href="http://www.mnrlab.com/"> Medical Micro and Nano Robotics Laboratory</a> for four years (2016~2020).<!-- slightdelayhere--><!-- slightdelayhere--> I continued to work as a Researcher in the laboratory till September 2021.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> I worked on my <a href="MScEngVer" >MSc Project</a> and thesis in <!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->the <a href="http://www.mnrlab.com/"> Medical Micro and Nano Robotics Laboratory</a> for four years (2016~2020).<!-- slightdelayhere--><!-- slightdelayhere--> I continued to work as a Researcher in the laboratory till September 2021.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>For my Technical Resume, you can check <a href="https://drive.google.com/file/d/1SJW4rQZzoLqLxYp-avAOgHGR5PQRV9-y/view?usp=sharing">The Technical Resume</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> You can check my professional profiles, here: <br><br><br> <a href="http://researchgate.net/profile/Loaa-Zahar?ev=hdr_xprf&_sg=FxyzpctrMIdpB7kV_Idxz4inZ_OqByIGcbKP5zs-YplgPY8HzkSD3CGj0RhrgmegzQ3JAU46_e-heO53KbJE6Dqv">LinkedIn</a> <br><br><br> <a href="https://www.linkedin.com/in/loaazahar/">Research Gate</a></p>
 
@@ -17,4 +17,4 @@ For further inquires and collaborations<!-- slightdelayhere-->, feel free to <!-
 <a href="KrVer" span id="k">한국어의 경우 여기를 <!-- slightdelayhere--> 클릭하십시오</a><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
 <span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cd/ Introduction/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
-<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> close <!-- kjsdfhkjdhsfkjdshfkj -->Introduction.txt
+<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> close <!-- kjsdfhkjdhsfkjdshfkj -->About_Me.txt
