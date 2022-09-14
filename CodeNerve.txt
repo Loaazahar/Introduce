@@ -5,13 +5,13 @@
 Hello! Welcome.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>My Name is Loaa Zahar, and This is my Welcome Seminar. </p><!-- slightdelayhere-->
 <p>My Name is Loaa Zahar, and I am a MSc degree holder in Robotics Control and I used to be a Teaching Assistant for the past four years in the German University in Cairo.</p><!-- slightdelayhere-->
 
-<p> My Research Experiences can be divided into four categories, .<!-- laglaglaglaglaglaglaglaglaglaglaglag --> which all fall under the umbrella of the Motion Control of Magento Robotic Sperms.  </p><!-- slightdelayhere-->
+<p> My Research Experiences can be divided into four categories,<!-- slightdelayhere--><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> which all fall under the umbrella of the Motion Control of Magento Robotic Sperms. </p><!-- slightdelayhere-->
+<p> Fabrication of Microrobots, Frequency Response characterization for motion analysis and control coefficents<!-- slightdelayhere--><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> open and closed loop systems for motion control and Post MSc work </p><!-- slightdelayhere-->
 
 
-
-<p>Thank you for Reading!</p>
+<p>Thank you for Reading!</p><!-- slightdelayhere-->
 
 
 
 <span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cd/ Presentations/<!-- kjsdfhkjdhsfkjdshfkj -->Welcome_Seminar
-<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> close <!-- kjsdfhkjdhsfkjdshfkj -->AWelcome_Seminar.txt
+<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> close <!-- kjsdfhkjdhsfkjdshfkj -->Welcome_Seminar.txt
