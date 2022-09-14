@@ -9,7 +9,7 @@ Hello! Welcome.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>My Name is Loaa Z
 <p> Fabrication of Microrobots, Frequency Response characterization for motion analysis and control coefficents<!-- slightdelayhere--><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> open and closed loop systems for motion control and Post MSc work </p><!-- slightdelayhere-->
 
 
-<p>Thank you for Attending!</p><!-- slightdelayhere-->
+<p>Thank you for Attending! </p><!-- slightdelayhere-->
 
 
 
