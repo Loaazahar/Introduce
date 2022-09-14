@@ -5,7 +5,7 @@
 Hello! Welcome.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>My Name is Loaa Zahar, and This is my Welcome Seminar. </p><!-- slightdelayhere-->
 <p>My Name is Loaa Zahar, and I am a MSc degree holder in Robotics Control and I used to be a Teaching Assistant for the past four years in the German University in Cairo.</p><!-- slightdelayhere-->
 
-
+<p> My Research Experiences can be divided into four categories, .<!-- laglaglaglaglaglaglaglaglaglaglaglag --> which all fall under the umbrella of the Motion Control of Magento Robotic Sperms.  </p><!-- slightdelayhere-->
 
 
 
