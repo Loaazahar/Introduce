@@ -15,7 +15,7 @@ For further inquires and collaborations<!-- slightdelayhere-->, feel free to <!-
 
 <p>Thank you for Reading!</p>
 
-<a href="KrVer" span id="k">한국어의 경우 여기를 <!-- slightdelayhere--> 클릭하십시오</a><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+
 
 <span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cd/ Introduction/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> close <!-- kjsdfhkjdhsfkjdshfkj -->About_Me.txt
