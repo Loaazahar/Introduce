@@ -8,10 +8,16 @@ Hello! Welcome.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>My Name is Loaa Z
 <p> My Research Experiences can be divided into four categories,<!-- slightdelayhere--><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> which all fall under the umbrella of the Motion Control of Magento Robotic Sperms. </p><!-- slightdelayhere-->
 <p> Fabrication of Microrobots, Frequency Response characterization for motion analysis and control coefficents<!-- slightdelayhere--><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> open and closed loop systems for motion control and Post MSc work </p><!-- slightdelayhere-->
 
+<span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Magneto Robotic Sperm: A Brief Introduction.txt<br/><br/>
+ <!-- sjkfhskjf -->
+<p> The Sperm shaped-like microrobot has been first introduced by Khalil et al in 2016.<!-- slightdelayhere--><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> Another version has been introduced in 2017 due to application purposes. </p><!-- slightdelayhere-->
+
+
+
+
+
+
 
 <p>Thank you for Attending! </p><!-- slightdelayhere-->
-
-
-
 <span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cd/ Presentations/<!-- kjsdfhkjdhsfkjdshfkj -->Welcome_Seminar
 <span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> close <!-- kjsdfhkjdhsfkjdshfkj -->Welcome_Seminar.txt
