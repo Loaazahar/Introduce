@@ -10,9 +10,10 @@ Hello! Welcome.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>My Name is Loaa Z
 
 <span id="a">Loaa@Zahar</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj --><span id="c">Magneto Robotic Sperm: A Brief Introduction.txt</span><br/><!-- sjkfhskjf -->
 <p> The Sperm shaped-like microrobot has been first introduced by Khalil et al in 2016.<!-- slightdelayhere--><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> Another version has been introduced in 2017 due to application purposes. </p><!-- slightdelayhere-->
-<p> The Sperm shaped-like microrobot has been first introduced by Khalil et al in 2016.<!-- slightdelayhere--><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> Another version has been introduced in 2017 due to application purposes. </p>
+<p> The microrobot on the left has a problem with changing its direction of propagation; and since the intendent application is a drug delivery application<!-- slightdelayhere--><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> there are no big space for the microrobot to change its direction of propagation.</p>
 
-
+<p> The picture on the left describes the two-tailed Microrobotic sperm which is the first version with extra tail in the opposite direction to the first tail. <!-- slightdelayhere--><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> Depending on the ratio between the tail’s length, under certain actuation frequencies, the microrobot changes its direction of propagation. </p><!-- slightdelayhere-->
+<p> The two tails produce frequency dependent forces and the microrobot will propagate in the direction of the stronger force. <!-- slightdelayhere--><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> We have found 5 main tail length ratio groups as you can see. Three out of the five groups can change the microrobot direction of propagation.</p>
 
 
 
